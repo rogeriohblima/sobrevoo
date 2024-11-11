@@ -1,0 +1,74 @@
+SNAV GTE <snav .gte@gmail.com>
+PARTE Nº 069_GTE2_2024_SGAS_MRE
+Operacoes Gte <opogte2@gmail.com> 4 de novembro de 2024 às 1 1:47
+Para: LISBOA  MJ VC-99 <leolisboaleo@hotmail.com>, "CP  LEANDRO VC99 (GTE-2)" <leandrinhorapha@hotmail.com>,
+ANDERSON SGT  MEC VC-99 <anderson5584@hotmail.com>, CRUZ SGT  COM VC-99 <samucruzvk@gmail.com>,
+pauloruf fonni@hotmail.com, CP  LUIZ VC-99 <luiz.sipaer@gmail.com>, MELO SO MEC VC-99 <meloajmc@fab.mil.br>,
+toscanortm@fab.mil.br , Cel Adido Aeronáutico no Paraguai <adiaer .py@gmail.com>, CHEFE MT AB
+<mtab.paraguai@fab.mil.br>, AUXILIAR ADIDO P ARAGUAI <adiaer .aux.py@gmail.com>,
+adido.paraguai@emaer .aer.mil.br , adiaer .paraguai@fab.mil.br
+Cco: snav .gte@gmail.com
+Prezados senhores,
+Encaminho os dados referentes à missão do Grupo de Transporte Especial (GTE) em apoio ao MINISTÉRIO DAS
+RELAÇÕES EXTERIORES, conforme o cronograma abaixo. 
+As solicitações serão realizadas diretamente pela tripulação junto ao Adido, Embaixada ou empresa de handling,
+conforme o caso, e poderão englobar, dentre outros, os seguintes itens:
+- Desembaraço de voo internacional (pouso e decolagem);
+- Local para estacionamento e pernoite da aeronave, com segurança aeroportuária;
+- Abastecimento de combustível (limite máximo de aproximadamente 8000 kg de querosene);
+- QTU (limpeza do banheiro) e QTA (água potável) da aeronave;
+- Confirmação se o horário de funcionamento dos aeroportos está de acordo com o cronograma;
+- De-ice (limpeza de gelo das superfícies da aeronave) momentos antes da decolagem, quando necessário.
+PARTE Nº 069_GTE2_2024_SGAS_MRE
+1. Destinos: ASSUNÇÃO - PARAGUAI
+2. Autoridade apoiada: Ministro das Relações Exteriores.
+3. Data, hora e local do briefing: Terça-feira dia 05/11/24 às 15:00h
+4. Aeronave titular: VC99B FAB2581 (E35L). O Código de Chamada será BRS 069.
+5. Aeronaves reservas: VC99A FAB 2526 (EMB-145), VC99A FAB 2550 (EMB-145), VC99C FAB 2560 (EMB-135), VC99C
+FAB 2561 (EMB-135), VC99B FAB2580 (E35L), VC99B FAB2582 (E35L), VC99B FAB2583 (E35L) VC99B FAB2584
+(E35L) e VC99B FAB 2585  (E35L).
+6. Quadro horário/Flight Schedule: 
+DECOLAGENS/DEPARTURES POUSOS/LANDINGS
+COMBUSTÍVEL
+(KG) Data/DateLocal/
+PlaceHorário/Time Tempo de
+Voo/Flight
+TimeData/
+DateLocal/
+PlaceHorário/TimeAlternativa/
+AlternateApoio/
+SupportedUTC LT UTC LT
+06/11SBBR 21:00 18:00 2:05 06/11SGAS 23:05 20:05 SBFI MRE 1 1P 3800
+07/11SGAS 18:00 15:00 2:00 07/11SBBR 20:00 17:00 SBGO MRE 1 1P 3600
+* DATA REFERENTE AO HORÁRIO UTC/ DATE ACCORDING TO UTC TIME
+Designativo das localidades:
+SGAS - Asuncion/Luque/Silvio Pettiros, Assunção - Paraguai (UTC -03:00)
+DE ACORDO COM O ATUAL CONTRATO DE ABASTECIMENTO NO EXTERIOR, A SEÇÃO DE MATERIAL
+DO GTE DEVERÁ COORDENAR AS AUTORIZAÇÕES DE ABASTECIMENTO COMO SE SEGUE:
+AEG: SGAS 06/NOV
+7. Uniforme: 7° C.
+8.  Suprimento de fundos para combustível: Não (Por determinação do GC-4). Obs.: O abastecimento deverá ser feito pela PO
+(Purchase Order). A tripulação deverá atentar para reabastecer com a empresa designada na PO (Purchase Order).
+04/11/2024, 11:53 Gmail - PARTE Nº 069_GTE2_2024_SGAS_MRE
+https://mail.google.com/mail/u/0/?ik=b0e7261e06&view=pt&search=all&permmsgid=msg-f:1814803740272829279&simpl=msg-f:1814803740272… 1/29.9.  Suprimento de fundos para a aeronave: Sim. US$ 1.000,00 (39). 
+10. Detentor do suprimento de fundos e responsável pelo recebimento das diárias: MJ LEONARDO VASCONCELOS
+LISBÔA, CPF: 008.564.451-00, OM: GTE
+11. Detentor do Cartão Corporativo: MJ LEONARDO VASCONCELOS LISBÔA, CPF: 008.564.451-00, OM: GTE
+ 
+12. Tripulação Titular:
+Posto/Graduação - Nome SARAM Data Nasc Nº Pass Data Pass OM
+MJ LEONARDO VASCONCELOS LISBÔA 427.790-203/06/1988SB 149.78403/10/2026 GTE
+CP LEANDRO RAPHAEL BORGES DE FREITAS449.412-104/06/1992SB 162.70025/07/2028 GTE
+1S ANDERSON ANDRÉ VIEIRA DE SANTANA 435.900-305/05/1984SB 146.34708/08/2026 GTE
+3S SAMUELSON JOSÉ CARLOS CRUZ 664.878-906/02/1993SB 161.42013/02/2028 GTE
+  13. Tripulação Reserva:
+Posto/Graduação - Nome SARAM Data Nasc Nº Pass Data Pass OM
+CP PAULO RUFFONI NETO - 1° RES 431.082-915/01/1988SB 169.90226/02/2029 GTE
+CP GABRIEL LUIZ DA ROCHA FERREIRA - 2°
+RES438.195-529/10/1990SB 058.44122/03/2028 GTE
+SO ALEXANDRE JOSÉ DE MELO COELHO 364.898-220/05/1975SC 003.77229/07/2029 GTE
+3S RONI TOSCANO DE MEDEIROS 656.450-010/10/1995SC 001.00207/05/2029 GTE
+Respeitosamente/Atenciosamente,
+MAJ AV ALCÂNT ARA
+   ADJ. OPR GTE-204/11/2024, 11:54 Gmail - PARTE Nº 069_GTE2_2024_SGAS_MRE
+https://mail.google.com/mail/u/0/?ik=b0e7261e06&view=pt&search=all&permmsgid=msg-f:1814803740272829279&simpl=msg-f:1814803740272… 2/2
